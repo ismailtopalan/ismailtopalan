@@ -61,7 +61,7 @@ I have experience working with a wide range of technologies and languages, allow
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=ismailtopalan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtopalan&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ismailtopalan&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
