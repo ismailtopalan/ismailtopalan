@@ -1,4 +1,8 @@
-# Hi there, I'm a Developer! 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi there, I'm a Developer! 👋" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="profilpic.png" alt="GitHub Profile Banner" width="100%" style="border-radius: 10px;" />
